@@ -1,0 +1,12 @@
+AAAA es la primera vez que comparto un código xd
+
+Instrucciones para que jale bien el programa:
+
+*Tener instalado python
+*Descargar la biblioteca Pillow ¿Cómo la descargo?
+   * Abre CMD y escribe en la terminal lo siguiente: " pip install Pillow. " (sin las comillas)
+*Instalar la imagen del Joker OJO el archivo debe llamarse "Bromas" y debe estar en formato PNG (puedes cambiar el nombre que está en el código si quieres que la imagen que tienes como base se llame diferente)
+
+**El texto que pusiste en la imagen será el mismo nombre que automáticamente se pondrá al archivo PNG
+
+y pues ya, sería todo siganme en instagram: @smells_like_lcl
